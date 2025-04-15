@@ -10,9 +10,6 @@ WebFrame_22F9EEFF_0C1A_2293_4165_411D4444EFEA_mobile.url = https://www.google.co
 
 ### Title
 panorama_36061CF4_3AAA_663C_41C2_A2466C2217D5.label = LateralDir(teste)
-panorama_90C6F8D9_885E_824F_41D6_A7ED95F5EA00.label = MonacoEsquinaDir
-panorama_77626CD5_7998_39EC_41C4_EB82C023056A.label = MonacoLateralDir
-panorama_9EA77607_885E_81C3_41DD_A7860FD1E42E.label = MonacoLateralEsq
 panorama_357E0086_3AAA_1EDC_419E_EE69DF8EEC8A.label = ObeliscoEsquina
 panorama_36013289_3AAA_62D4_41C6_CEE019E4AF13.label = ObeliscoLatEsq
 panorama_3601E77E_3AAA_622C_4198_21AA590BC7C5.label = ObeliscoLateralDir
